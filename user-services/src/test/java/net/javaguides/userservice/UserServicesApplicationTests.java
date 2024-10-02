@@ -1,4 +1,4 @@
-package java.netguides.userservices;
+package net.javaguides.userservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
